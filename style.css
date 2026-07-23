@@ -5,3 +5,12 @@ body {
 h1 {
     color: beige;
 }
+nav {
+    background: navy;
+    padding: 10px;
+}
+nav a {
+    color: aquamarine;
+    margin-right: 15px;
+    text-decoration: none;
+}
